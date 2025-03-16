@@ -14,7 +14,7 @@ project:
     - file: home.md
     - title: Mantenimiento
       children:
-        - file: icc.ipynb
+        - file: maintenance/icc.ipynb
     - title: Operaciones
       children:
         - file: operation/plm.ipynb
