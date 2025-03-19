@@ -14,7 +14,7 @@ project:
     - file: home.md
     - title: Mantenimiento
       children:
-        - file: maintenance/maintenance.ipynb
+        - file: maintenance/oil_analysis.ipynb
     - title: Operaciones
       children:
         - file: operation/completeness.ipynb

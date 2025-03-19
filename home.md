@@ -2,7 +2,7 @@ Resumen Ejecutivo - Gestión durante periodo de ausencia
 # 1. Gestión de Personas y Equipo
 
 ## 1.1 Estado del Equipo
-
+   
 Remuneración de Andrés: Pendiente aprobación del workflow por parte de Francisco González. Se requiere solicitar la revisión y aprobación del nuevo contrato a la brevedad.
 Reemplazo de Sergio Muñoz: El requerimiento REQ015984 ha sido levantado a través de workflows, se requiere su aceptación para continuar con este proceso.
 Contratación Ing. Confiabilidad: RRHH ha contactado solicitando información sobre requerimientos de contratación. Francisco González indicó no responder, pero es necesario revisar si esta es la acción correcta.
