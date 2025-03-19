@@ -14,10 +14,18 @@ project:
     - file: home.md
     - title: Mantenimiento
       children:
-        - file: maintenance/icc.ipynb
+        - file: maintenance/maintenance.ipynb
     - title: Operaciones
       children:
+        - file: operation/completeness.ipynb
         - file: operation/plm.ipynb
+        - file: operation/ge.ipynb
+    - title: Reparación
+      children:
+        - file: reparation/component_status.ipynb
+    - title: Confiabilidad
+      children:
+        - file: reliability/icc.ipynb
     - title: Ejemplos
       children:
         - file: examples/01-paper.md
