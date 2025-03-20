@@ -150,3 +150,7 @@ Valor recuperado y proyectado para el trimestre.
 Aprobación de workflows pendientes relacionados con personal.
 Recursos requeridos para proyectos en fase crítica de implementación.
 Propuestas de mejora técnica que requieren aprobación inmediata.
+
+
+
+
