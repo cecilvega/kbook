@@ -1,72 +1,70 @@
-Resumen Ejecutivo - Gestión durante periodo de ausencia
 # 1. Gestión de Personas y Equipo
-HOLAAAAA
+
 ## 1.1 Estado del Equipo
    
 Remuneración de Andrés: Pendiente aprobación del workflow por parte de Francisco González. Se requiere solicitar la revisión y aprobación del nuevo contrato a la brevedad.
+
 Reemplazo de Sergio Muñoz: El requerimiento REQ015984 ha sido levantado a través de workflows, se requiere su aceptación para continuar con este proceso.
-Contratación Ing. Confiabilidad: RRHH ha contactado solicitando información sobre requerimientos de contratación. Francisco González indicó no responder, pero es necesario revisar si esta es la acción correcta.
+
 
 ## 1.2 Itinerario y Planificación
 
-Aprobación pendiente de pasajes 7x7 para Sergio Muñoz en su último turno.
-Viaje programado a ANF del 24-27 de marzo del 2025.
-Pendiente aprobación de pasajes 7x7 para Sebastián Cepeda para el próximo mes de abril.
+- Levantar pasajes sergio para su último turno, revisar.
+
+- Viaje programado a ANF del 24-27 de marzo del 2025.
+
+- Pendiente aprobación de pasajes 7x7 para Sebastián Cepeda para el próximo mes de abril.
 Calendarios de turnos y cobertura para el próximo mes.
 Asignaciones especiales realizadas durante su ausencia.
+
+[//]: # (TODO:)
 
 ## 1.3 Acreditaciones
 
 Revisión pendiente de vencimientos de cursos del personal.
+
 Estado actual de acreditaciones del equipo.
+
 Programación de renovaciones necesarias.
 
 ## 2. Servicio al Cliente
 
-Estado: Sin consultas pendientes durante las últimas tres semanas.
+Estado: Solicitud de informes de cambio de componentes.
 
 ## 3. Estado de Pagos
 
-EP enero:
-
-EP 857 MT: Rechazado por Francisco Olmos al no observar daños en el piñón solar.
-EP 291 MD: Rechazado, Jonathan indica necesidad de discutirlo con usted.
-EP 878: Pendiente de revisión por parte de Francisco Olmos (actualizado el 12 de marzo 2025).
-
-
-EP marzo 2025: Debe finalizarse con urgencia hoy debido al retraso.
+Hacer un listado para el lunes 24 de marzo 2025.
 
 # 4. Proyectos de Analítica y Data
 
 ## 4.1 Data Técnica
 
-Análisis de tendencias de componentes críticos en 960E y PC8000.
-Implementación de nuevos dashboards de monitoreo para equipos clave.
-Correlaciones identificadas entre parámetros operacionales y fallas recurrentes.
-Oportunidades de mejora basadas en análisis predictivo de datos históricos.
-Impacto cuantificado en disponibilidad y confiabilidad de equipos.
+### 4.1.1 Mantenimiento
+
+### 4.1.2 Reparación
+
+### 4.1.3 Operaciones
 
 ## 4.2 Proyecto FMSA
 
-Estado actual del análisis de modos de falla en componentes prioritarios.
-Componentes evaluados y resultados clave del análisis.
-Acciones preventivas implementadas basadas en hallazgos.
-Próximos componentes a evaluar según cronograma.
+Se tiene identificación de las piezas para el MT.
 
 # 5. Proyectos de Confiabilidad
 
 ## 5.1 Proyectos CAEX
 
+### Pool KCH
+
+Cómo se abordará esto alfinal, fecha de entrega para el 31 de marzo.
 
 ### Los defensores de la parrilla
 
-Detallar el problema, y la magntiud del problema.
-
-Desarrollar el excel que es importante para magnificar el problema. (Importante)
+TODO: 
+Desarrollar el excel que es importante para magnificar el problema.
 Problema, Cuantificar, Soluciones.
 Acción para esta semana 17: Buscar el template del excel y hacerlo de forma inmediata.
 
-Pendiente entrega PPT.
+PPT Estudio de confiabilidad: Está pendiente, se requiere enviar lámina ejecutiva actualizando la efectividad de la medida estilo PSG como fue sugerido.
 
 ### Protocolo cuidado del blower TK859
 
@@ -85,8 +83,6 @@ Siempre como confiabilidad debe haber un plan de accion, sustentado por un anál
 (Mega importante.)
 
 Colocar acciones. Voy a hacer en particular un levantamiento del estado actual de los camiones
-Proyecto Ayudantes de Parrilla: Se requiere enviar lámina ejecutiva actualizando la efectividad de la medida estilo PSG como fue sugerido.
-
 
 
 Proyecto KTAC: 32 dispositivos listos, pendiente despacho hacia ANF. 
