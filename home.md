@@ -31,9 +31,139 @@ Programación de renovaciones necesarias.
 
 Estado: Solicitud de informes de cambio de componentes.
 
+TODO: Responder a Milton con ICC (veri si me lo encuentro en faena).
+
 ## 3. Estado de Pagos
 
 Hacer un listado para el lunes 24 de marzo 2025.
+Actores claves: Milton.
+Francisco Olmos
+
+El proyecto GPS. 
+Modo de falla.
+
+Confiabilidad de componentes.
+Informe investigación del alternador principal.
+
+Levantamiento con fallas prematuras.
+Rocío de planificación.
+
+Actualizar el estado del pool de componentes. (Temas con investigación.)
+Blower
+
+AP 0 horas.
+Corte de perno.
+
+El foco es el cuidado de los activos. Ingeniero de activos.
+
+FO recibe informes técnicos. Mucho feedback.
+
+Buscar las pautas de puesta en servicio y finales de cada componente.
+Cada componente tiene un documento de evaluación.
+
+Asegurarse Kit de montaje de cilindro de dirección
+Informe de salida del RESO.Vaya a revisar lo que tenga que revisar.
+Cilindro de dirección el foco de lo que vaya a mirar, komatsu BHP com.
+
+FO, Francisco como ha andado el performance del pool. 
+Fuera de los tiempos de llegada, la confiabilidad.
+Los cilindros de direccion.
+
+Cómo están los componentes. Mal.
+Modo de falla que más duele.
+Fuga por el vastago, barrido de los casos que han fallado.
+
+Como te ayudo. Hacemos una pequeña campaña. 
+Trabajemoslo en paralelo. Planilla compartida. 
+Población que tiene el problema.
+
+Levantamiento terreno, tenga funda protectora en buen estado.
+Cilindro dirección falla a las 7000 hrs se dañan.
+Según la condición de la mina, hacer un midlife.
+
+---------
+Presentar Andres turno día turno noche.
+Hablar con el Max. Cómo haces el informe, cómo lo hace especificamente. 
+Max, vamos a ver los componentes del patio.
+Qué es lo que realizó el Max detrás del informe (es como entender yo mismo el informe).
+
+Trabajar en conjunto con el Andrés.
+
+Capturar la nececidad del cliente.
+1. Como esta el perro.
+2. Saber para cada una de las personas que es lo que más le interesa.
+3. FO lo más importantes es el cuidado del activo.
+4. Cómo está el pool, y en particular, cual componente del pool tiene oportunidades.
+5. Una vez identificado el activo, cual es el principal modo de falla.
+6. Para el principal modo de falla, con el levantamiento hecho, hacerlo, y comenzar a trabajar.
+---------
+
+Ir a terrreno, trabajar con el andres en informes técnicos.
+FO nececidades del pool.
+Trabajar con el supervisor día y noche para presentar al equipo.
+Juntarse con la gente del turno día y noche, registro charla R001.
+
+Instructivo cambios componente del pool.
+cambio de cilindro de dirección, estandarización y mejoramiento continue
+También voy a encontrar un KOP localmente en faena.
+7+1(AP) De esos 8 IT. Debo tener X cantidad de instructivo de trabajo asociados a esos mismos componente
+Los otros son los instructivos necesario para las tareas de mantenimiento
+Entrada y salida de vehículos a la nave.
+Hagan la mirada, en paralelo, le estoy pidiendo al osvaldo, 
+para que el envíe lo que realmente están ocupando.
+
+Instructivos técnico.
+Tienenque existir 8 que son de los cambios de componentes principales (identificar)
+Identificar los Insturctivos der trabajo para los cambios de componente.
+Cambio de clindro de dirección, si o si vamos a tener 8 IT y 4 instructivos de trabajo.
+
+Ingreso y salida del camión de trabajo 
+Carga suspensiones.
+
+ORDENARLOS EN ESTAS CATEGORÍAS
+- INSTRUCTIVO CAMBIOS DE COMPONENTE / SUBCARPETAS: (TÉCNICOS Y DE TRABAJO)
+- INSTRUCTIVOS DE MANTENIMIENTO / SUBCARPETAS: (TÉCNICOS Y DE TRABAJO)
+Dentro de lo que dice osvaldo anda revisando que es lo que tenemos, 
+Cambio componentes y otros (categorías.)
+
+
+
+Análisis para taller de RESO: Revisión de completitud.
+Operacional.
+Mantenibilidad: Revisión de completitud PM.
+
+Menores en Mantenimiento.
+
+
+
+
+
+
+
+
+
+
+
+
+
+10 cilindros de dirección. 
+
+
+Planes tienen efectos.
+
+
+
+
+1 vez al mes de todas las brechas detectadas. 
+Cuantos procesos de mejoramiento en términos de estrategia
+Bajada a todos los especialistas a todos los AT
+Bajar los instructivos técnicos
+
+Reunión para presentarlo.
+Osvaldo Araya.
+
+
+
 
 # 4. Proyectos de Analítica y Data
 
@@ -42,6 +172,8 @@ Hacer un listado para el lunes 24 de marzo 2025.
 ### 4.1.1 Mantenimiento
 
 ### 4.1.2 Reparación
+
+
 
 ### 4.1.3 Operaciones
 
