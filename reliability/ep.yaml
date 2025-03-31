@@ -214,7 +214,7 @@
   reparation_cost: -1
   comment: ""
   customer_service_order: "18129919"
-  service_order: ""
+  service_order: "14150133"
 
 - numero_equipo: "TK285"
   component_name: "Suspensión Trasera"
@@ -315,7 +315,7 @@
   fecha_publicacion_ppto: ""
   costo_provisionado: -1
   reparation_cost: -1
-  comment: ""
+  comment: "18130692 no registra en reso"
   customer_service_order: "18130692"
   service_order: ""
 
@@ -324,12 +324,14 @@
   position_name: "DERECHO"
   component_hours: 25510
   prorrata_date: "2025-01-01"
-  fecha_publicacion_ppto: ""
+  fecha_publicacion_ppto: "2025-02-17"
   costo_provisionado: -1
-  reparation_cost: -1
-  comment: ""
+  reparation_cost: 23636.95
+  efecto_falla: no hay efecto de falla
+  comment: "Para asegurar que el cambio fue solo por tbo buscar en fiori el motivo del
+  cambio, pruebas electricas buenas y fotografias se visualiza un blower sano"
   customer_service_order: "18130771"
-  service_order: ""
+  service_order: "14151789"
 
 - equipment_name: "TK867"
   component_name: "motor_traccion"
@@ -352,12 +354,14 @@
   position_name: "DERECHO"
   component_hours: 32269
   prorrata_date: "2025-01-01"
-  fecha_publicacion_ppto: ""
+  fecha_publicacion_ppto: "2025-03-14"
   costo_provisionado: -1
-  reparation_cost: -1
-  comment: ""
+  reparation_cost: 73696.95
+  efecto de falla: sin efecto de falla.
+  comment: "215% de utilizacion, vastago Se deberá dar de baja por sobre
+espesor de cromo (Se supone que gasta y no aumenta)."
   customer_service_order: "18130772"
-  service_order: ""
+  service_order: "14151798"
 
 - numero_equipo: "TK285"
   component_name: "Blower Parrillas"
