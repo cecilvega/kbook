@@ -11,3 +11,15 @@ equipos:
     comment: ""
     customer_service_order: "18127635"
     service_order: ""
+
+  - numero_equipo: "TK289"
+    component_name: "Motor de tracción"
+    position_name: "IZQUIERDO"
+    component_hours: 32002
+    prorrata_date: "2024-06-01"
+    fecha_publicacion_ppto: ""
+    costo_provisionado: -1
+    reparation_cost: -1
+    comment: ""
+    customer_service_order: "18126805"
+    service_order: ""
