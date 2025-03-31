@@ -4,14 +4,16 @@
   component_hours: 14102
   changeout_date: ""
   prorrata_date: "2024-06-01"
-  fecha_publicacion_ppto: ""
+  fecha_publicacion_ppto: "2025-03-10"
   costo_provisionado: -1
-  reparation_cost: -1
-  comment: asdasdasadasdasdas
-    wdasdasd
-    sadasdasdsa
+  reparation_cost: 466899.95
+  efecto_falla: fuga de aceite por el interior de la caja de aire.
+  comment: por la cantidad de horas 14192, falla no se asocia a krcc pero debemos 
+   revisar reparaciones anteriores. evaluar cargas a exceso de velocidad, alzas de fierro
+  independiente del limite maximo.
   customer_service_order: "18127635"
-  service_order: ""
+  service_order: "14146426"
+  dificultad: 2
 
 - equipment_name: "TK289"
   component_name: "motor_traccion"
@@ -22,6 +24,55 @@
   fecha_publicacion_ppto: ""
   costo_provisionado: -1
   reparation_cost: -1
-  comment: ""
+  comment: "18126805 NO REGISTRA EN RESO"
   customer_service_order: "18126805"
   service_order: ""
+
+  equipment_name: "TK867"
+  component_name: "motor_traccion"
+  position_name: "izquierdo"
+  component_hours: 19082
+  changeout_date: "2024-12-31"
+  prorrata_date: ""
+  fecha_publicacion_ppto: "2025-03-05"
+  costo_provisionado: -1
+  reparation_cost: 717672.51
+  efecto_falla: particulado en tapones magneticos
+  comment: evaluar practicas operacionales indebidas como sobre exceso velocidad cargado,
+  horas del ring gear, historico de aceite debe existir alza de fierro.
+  customer_service_order: "18130797"
+  service_order: "14151781"
+  dificultad: 3
+
+- equipment_name: "TK398"
+  component_name: "motor_traccion"
+  position_name: "izquierdo"
+  component_hours: 22838
+  changeout_date: "2024-12-15"
+  prorrata_date: ""
+  fecha_publicacion_ppto: "2025-02-25"
+  costo_provisionado: -1
+  reparation_cost: 170060.36
+  efecto_falla: falla de propulsión intermitente
+  comment: "Buscar en fiori porque se retira este MT. Segun informe inicial hubo desgaste
+  en los rodamientos de alta y baja, efecto de falla mas rodamientos podria ser que se 
+  cambio por GAP fuera de medida. Evaluar nivel de aceite MT, particulado en el aceite
+   indice PQ, velocidades maxima con y sin carga"
+  customer_service_order: "18130429"
+  service_order: "14151172"
+  dificultad: 2
+
+- equipment_name: "TK322"
+  component_name: "motor_traccion"
+  position_name: "derecho"
+  component_hours: 6620
+  changeout_date: "2024-06-06"
+  prorrata_date: ""
+  fecha_publicacion_ppto: "2025-02-25"
+  costo_provisionado: -1
+  reparation_cost: 277145.62
+  efecto_falla:
+  comment: ""
+  customer_service_order: ""
+  service_order: ""
+  dificultad:
