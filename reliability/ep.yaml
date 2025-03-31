@@ -49,7 +49,8 @@
   fecha_publicacion_ppto: ""
   costo_provisionado: -1
   reparation_cost: -1
-  comment: "18126805 NO REGISTRA EN RESO"
+  efecto de falla: fuga de aceite por el interior de la caja de aire
+  comment: ""
   customer_service_order: 18126805
   service_order: 14146426
 
@@ -315,7 +316,8 @@
   fecha_publicacion_ppto: ""
   costo_provisionado: -1
   reparation_cost: -1
-  comment: "18130692 no registra en reso"
+  efecto_falla:
+  comment: ""
   customer_service_order: "18130692"
   service_order: ""
 
