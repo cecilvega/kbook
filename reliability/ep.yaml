@@ -16,6 +16,7 @@ equipos:
     component_name: "Motor de tracción"
     position_name: "IZQUIERDO"
     component_hours: 32002
+    changeout_date: ""
     prorrata_date: "2024-06-01"
     fecha_publicacion_ppto: ""
     costo_provisionado: -1
