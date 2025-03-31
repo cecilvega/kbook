@@ -1,0 +1,552 @@
+equipos:
+  - numero_equipo: "TK284"
+    component_name: "Motor de tracción"
+    position_name: "DERECHO"
+    component_hours: 22451
+    prorrata_date: "2025-02-01"
+    fecha_publicacion_ppto: ""
+    costo_provisionado: -1
+    reparation_cost: -1
+    comment: ""
+    customer_service_order: ""
+    service_order: ""
+
+  - numero_equipo: "TK285"
+    component_name: "Suspensión Trasera"
+    position_name: "DERECHO"
+    component_hours: 20650
+    prorrata_date: "2024-11-01"
+    fecha_publicacion_ppto: ""
+    costo_provisionado: -1
+    reparation_cost: -1
+    comment: ""
+    customer_service_order: "18129920"
+    service_order: ""
+
+  - numero_equipo: "TK285"
+    component_name: "Blower Parrillas"
+    position_name: "DERECHO"
+    component_hours: 13207
+    prorrata_date: "2025-02-01"
+    fecha_publicacion_ppto: ""
+    costo_provisionado: -1
+    reparation_cost: -1
+    comment: ""
+    customer_service_order: "18131182"
+    service_order: ""
+
+  - numero_equipo: "TK289"
+    component_name: "Motor de tracción"
+    position_name: "IZQUIERDO"
+    component_hours: 32002
+    prorrata_date: "2024-06-01"
+    fecha_publicacion_ppto: ""
+    costo_provisionado: -1
+    reparation_cost: -1
+    comment: ""
+    customer_service_order: "18126805"
+    service_order: ""
+
+  - numero_equipo: "TK291"
+    component_name: "Módulo de Potencia"
+    position_name: "UNICA"
+    component_hours: -1
+    prorrata_date: ""
+    fecha_publicacion_ppto: ""
+    costo_provisionado: -1
+    reparation_cost: -1
+    comment: ""
+    customer_service_order: ""
+    service_order: ""
+
+  - numero_equipo: "TK291"
+    component_name: "Alternador principal"
+    position_name: "UNICA"
+    component_hours: 8385
+    prorrata_date: "2024-09-01"
+    fecha_publicacion_ppto: ""
+    costo_provisionado: -1
+    reparation_cost: -1
+    comment: ""
+    customer_service_order: "18129323"
+    service_order: ""
+
+  - numero_equipo: "TK291"
+    component_name: "Desarme/ armado + Rep. Subframe"
+    position_name: "UNICA"
+    component_hours: 8385
+    prorrata_date: "2024-09-01"
+    fecha_publicacion_ppto: ""
+    costo_provisionado: -1
+    reparation_cost: -1
+    comment: ""
+    customer_service_order: "18129324"
+    service_order: ""
+
+  - numero_equipo: "TK291"
+    component_name: "Radiador"
+    position_name: "UNICA"
+    component_hours: 8385
+    prorrata_date: "2024-09-01"
+    fecha_publicacion_ppto: ""
+    costo_provisionado: -1
+    reparation_cost: -1
+    comment: ""
+    customer_service_order: "18129381"
+    service_order: ""
+
+  - numero_equipo: "TK291"
+    component_name: "Cilindro de Levante"
+    position_name: "DERECHO"
+    component_hours: 25370
+    prorrata_date: "2025-01-01"
+    fecha_publicacion_ppto: ""
+    costo_provisionado: -1
+    reparation_cost: -1
+    comment: ""
+    customer_service_order: "18130692"
+    service_order: ""
+
+  - numero_equipo: "TK320"
+    component_name: "Blower Parrillas"
+    position_name: "IZQUIERDO"
+    component_hours: 13291
+    prorrata_date: "2024-08-01"
+    fecha_publicacion_ppto: ""
+    costo_provisionado: -1
+    reparation_cost: -1
+    comment: ""
+    customer_service_order: ""
+    service_order: ""
+
+  - numero_equipo: "TK322"
+    component_name: "Motor de tracción"
+    position_name: "DERECHO"
+    component_hours: 6620
+    prorrata_date: "2024-06-01"
+    fecha_publicacion_ppto: ""
+    costo_provisionado: -1
+    reparation_cost: -1
+    comment: ""
+    customer_service_order: "18127085"
+    service_order: ""
+
+  - numero_equipo: "TK322"
+    component_name: "Alternador principal"
+    position_name: "UNICA"
+    component_hours: 16027
+    prorrata_date: "2024-10-01"
+    fecha_publicacion_ppto: ""
+    costo_provisionado: -1
+    reparation_cost: -1
+    comment: ""
+    customer_service_order: "18129431"
+    service_order: ""
+
+  - numero_equipo: "TK322"
+    component_name: "Blower Parrillas"
+    position_name: "DERECHO"
+    component_hours: 23123
+    prorrata_date: "2025-03-01"
+    fecha_publicacion_ppto: ""
+    costo_provisionado: -1
+    reparation_cost: -1
+    comment: ""
+    customer_service_order: "18132079"
+    service_order: ""
+
+  - numero_equipo: "TK398"
+    component_name: "Blower Parrillas"
+    position_name: "DERECHO"
+    component_hours: 7398
+    prorrata_date: "2024-08-01"
+    fecha_publicacion_ppto: ""
+    costo_provisionado: -1
+    reparation_cost: -1
+    comment: ""
+    customer_service_order: ""
+    service_order: ""
+
+  - numero_equipo: "TK398"
+    component_name: "Motor de tracción"
+    position_name: "IZQUIERDO"
+    component_hours: 22838
+    prorrata_date: "2024-12-01"
+    fecha_publicacion_ppto: ""
+    costo_provisionado: -1
+    reparation_cost: -1
+    comment: ""
+    customer_service_order: "18130429"
+    service_order: ""
+
+  - numero_equipo: "TK398"
+    component_name: "Conjunto Suspensión Delantera"
+    position_name: "DERECHO"
+    component_hours: 27053
+    prorrata_date: "2025-03-01"
+    fecha_publicacion_ppto: ""
+    costo_provisionado: -1
+    reparation_cost: -1
+    comment: ""
+    customer_service_order: "18131608"
+    service_order: ""
+
+  - numero_equipo: "TK399"
+    component_name: "Suspensión Trasera"
+    position_name: "IZQUIERDO"
+    component_hours: 43800
+    prorrata_date: "2024-12-01"
+    fecha_publicacion_ppto: ""
+    costo_provisionado: -1
+    reparation_cost: -1
+    comment: ""
+    customer_service_order: "18130433"
+    service_order: ""
+
+  - numero_equipo: "TK847"
+    component_name: "Conjunto Suspensión Delantera"
+    position_name: "DERECHO"
+    component_hours: 24441
+    prorrata_date: "2024-11-01"
+    fecha_publicacion_ppto: ""
+    costo_provisionado: -1
+    reparation_cost: -1
+    comment: ""
+    customer_service_order: "18129586"
+    service_order: ""
+
+  - numero_equipo: "TK847"
+    component_name: "Blower Parrillas"
+    position_name: "DERECHO"
+    component_hours: 25510
+    prorrata_date: "2025-01-01"
+    fecha_publicacion_ppto: ""
+    costo_provisionado: -1
+    reparation_cost: -1
+    comment: ""
+    customer_service_order: "18130771"
+    service_order: ""
+
+  - numero_equipo: "TK849"
+    component_name: "Suspensión Trasera"
+    position_name: "DERECHO"
+    component_hours: 23560
+    prorrata_date: "2024-12-01"
+    fecha_publicacion_ppto: ""
+    costo_provisionado: -1
+    reparation_cost: -1
+    comment: ""
+    customer_service_order: "18130121"
+    service_order: ""
+
+  - numero_equipo: "TK850"
+    component_name: "Suspensión Trasera"
+    position_name: "DERECHO"
+    component_hours: 33381
+    prorrata_date: "2025-03-01"
+    fecha_publicacion_ppto: ""
+    costo_provisionado: -1
+    reparation_cost: -1
+    comment: ""
+    customer_service_order: "18131611"
+    service_order: ""
+
+  - numero_equipo: "TK851"
+    component_name: "Suspensión Trasera"
+    position_name: "DERECHO"
+    component_hours: 15571
+    prorrata_date: "2025-03-01"
+    fecha_publicacion_ppto: ""
+    costo_provisionado: -1
+    reparation_cost: -1
+    comment: ""
+    customer_service_order: "18131626"
+    service_order: ""
+
+  - numero_equipo: "TK852"
+    component_name: "Conjunto Suspensión Delantera"
+    position_name: "DERECHO"
+    component_hours: 32269
+    prorrata_date: "2025-01-01"
+    fecha_publicacion_ppto: ""
+    costo_provisionado: -1
+    reparation_cost: -1
+    comment: ""
+    customer_service_order: "18130772"
+    service_order: ""
+
+  - numero_equipo: "TK856"
+    component_name: "Motor de tracción"
+    position_name: "IZQUIERDO"
+    component_hours: 14102
+    prorrata_date: "2024-06-01"
+    fecha_publicacion_ppto: ""
+    costo_provisionado: -1
+    reparation_cost: -1
+    comment: ""
+    customer_service_order: "18127635"
+    service_order: ""
+
+  - numero_equipo: "TK858"
+    component_name: "Blower Parrillas"
+    position_name: "IZQUIERDO"
+    component_hours: 17965
+    prorrata_date: "2025-01-01"
+    fecha_publicacion_ppto: ""
+    costo_provisionado: -1
+    reparation_cost: -1
+    comment: ""
+    customer_service_order: "18131331"
+    service_order: ""
+
+  - numero_equipo: "TK858"
+    component_name: "Motor de tracción"
+    position_name: "DERECHO"
+    component_hours: 16928
+    prorrata_date: "2025-01-01"
+    fecha_publicacion_ppto: ""
+    costo_provisionado: -1
+    reparation_cost: -1
+    comment: ""
+    customer_service_order: "18130740"
+    service_order: ""
+
+  - numero_equipo: "TK859"
+    component_name: "Blower Parrillas"
+    position_name: "IZQUIERDO"
+    component_hours: 26719
+    prorrata_date: "2024-11-01"
+    fecha_publicacion_ppto: ""
+    costo_provisionado: -1
+    reparation_cost: -1
+    comment: ""
+    customer_service_order: "18129485"
+    service_order: ""
+
+  - numero_equipo: "TK859"
+    component_name: "Blower Parrillas"
+    position_name: "DERECHO"
+    component_hours: 28540
+    prorrata_date: "2024-11-01"
+    fecha_publicacion_ppto: ""
+    costo_provisionado: -1
+    reparation_cost: -1
+    comment: ""
+    customer_service_order: "18129486"
+    service_order: ""
+
+  - numero_equipo: "TK860"
+    component_name: "Cilindro de Levante"
+    position_name: "DERECHO"
+    component_hours: 12921
+    prorrata_date: "2024-08-01"
+    fecha_publicacion_ppto: ""
+    costo_provisionado: -1
+    reparation_cost: -1
+    comment: ""
+    customer_service_order: "18128414"
+    service_order: ""
+
+  - numero_equipo: "TK862"
+    component_name: "Suspensión Trasera"
+    position_name: "DERECHO"
+    component_hours: 21694
+    prorrata_date: "2025-01-01"
+    fecha_publicacion_ppto: ""
+    costo_provisionado: -1
+    reparation_cost: -1
+    comment: ""
+    customer_service_order: "18130691"
+    service_order: ""
+
+  - numero_equipo: "TK864"
+    component_name: "Blower Parrillas"
+    position_name: "DERECHO"
+    component_hours: 23979
+    prorrata_date: "2025-02-01"
+    fecha_publicacion_ppto: ""
+    costo_provisionado: -1
+    reparation_cost: -1
+    comment: ""
+    customer_service_order: ""
+    service_order: ""
+
+  - numero_equipo: "TK867"
+    component_name: "Suspensión Trasera"
+    position_name: "DERECHO"
+    component_hours: 14097
+    prorrata_date: "2024-10-01"
+    fecha_publicacion_ppto: ""
+    costo_provisionado: -1
+    reparation_cost: -1
+    comment: ""
+    customer_service_order: "18129130"
+    service_order: ""
+
+  - numero_equipo: "TK867"
+    component_name: "Motor de tracción"
+    position_name: "IZQUIERDO"
+    component_hours: 17755
+    prorrata_date: "2025-01-01"
+    fecha_publicacion_ppto: ""
+    costo_provisionado: -1
+    reparation_cost: -1
+    comment: ""
+    customer_service_order: "18130797"
+    service_order: ""
+
+  - numero_equipo: "TK867"
+    component_name: "Conjunto Suspensión Delantera"
+    position_name: "IZQUIERDO"
+    component_hours: 9277
+    prorrata_date: "2025-03-01"
+    fecha_publicacion_ppto: ""
+    costo_provisionado: -1
+    reparation_cost: -1
+    comment: ""
+    customer_service_order: "18131818"
+    service_order: ""
+
+  - numero_equipo: "TK870"
+    component_name: "Suspensión Trasera"
+    position_name: "IZQUIERDO"
+    component_hours: 17079
+    prorrata_date: "2024-07-01"
+    fecha_publicacion_ppto: ""
+    costo_provisionado: -1
+    reparation_cost: -1
+    comment: ""
+    customer_service_order: "18127504"
+    service_order: ""
+
+  - numero_equipo: "TK871"
+    component_name: "Blower Parrillas"
+    position_name: "DERECHO"
+    component_hours: 18412
+    prorrata_date: "2024-08-01"
+    fecha_publicacion_ppto: ""
+    costo_provisionado: -1
+    reparation_cost: -1
+    comment: ""
+    customer_service_order: ""
+    service_order: ""
+
+  - numero_equipo: "TK871"
+    component_name: "Conjunto Suspensión Delantera"
+    position_name: "DERECHO"
+    component_hours: 19379
+    prorrata_date: "2024-11-01"
+    fecha_publicacion_ppto: ""
+    costo_provisionado: -1
+    reparation_cost: -1
+    comment: ""
+    customer_service_order: "18129747"
+    service_order: ""
+
+  - numero_equipo: "TK872"
+    component_name: "Blower Parrillas"
+    position_name: "IZQUIERDO"
+    component_hours: 20227
+    prorrata_date: "2024-06-01"
+    fecha_publicacion_ppto: ""
+    costo_provisionado: -1
+    reparation_cost: -1
+    comment: ""
+    customer_service_order: ""
+    service_order: ""
+
+  - numero_equipo: "TK872"
+    component_name: "Cilindro de Levante"
+    position_name: "DERECHO"
+    component_hours: 8077
+    prorrata_date: "2024-11-01"
+    fecha_publicacion_ppto: ""
+    costo_provisionado: -1
+    reparation_cost: -1
+    comment: ""
+    customer_service_order: "18129919"
+    service_order: ""
+
+  - numero_equipo: "TK873"
+    component_name: "Suspensión Trasera"
+    position_name: "IZQUIERDO"
+    component_hours: 18829
+    prorrata_date: "2024-10-01"
+    fecha_publicacion_ppto: ""
+    costo_provisionado: -1
+    reparation_cost: -1
+    comment: ""
+    customer_service_order: "18128354"
+    service_order: ""
+
+  - numero_equipo: "TK873"
+    component_name: "Motor de tracción"
+    position_name: "DERECHO"
+    component_hours: 9461
+    prorrata_date: "2025-02-01"
+    fecha_publicacion_ppto: ""
+    costo_provisionado: -1
+    reparation_cost: -1
+    comment: ""
+    customer_service_order: "18131326"
+    service_order: ""
+
+  - numero_equipo: "TK874"
+    component_name: "Blower Parrillas"
+    position_name: "DERECHO"
+    component_hours: 26085
+    prorrata_date: "2024-11-01"
+    fecha_publicacion_ppto: ""
+    costo_provisionado: -1
+    reparation_cost: -1
+    comment: ""
+    customer_service_order: ""
+    service_order: ""
+
+  - numero_equipo: "TK875"
+    component_name: "Motor de tracción"
+    position_name: "DERECHO"
+    component_hours: 13000
+    prorrata_date: "2025-02-01"
+    fecha_publicacion_ppto: ""
+    costo_provisionado: -1
+    reparation_cost: -1
+    comment: ""
+    customer_service_order: "18131183"
+    service_order: ""
+
+  - numero_equipo: "TK876"
+    component_name: "Cilindro de Levante"
+    position_name: "IZQUIERDO"
+    component_hours: 57253
+    prorrata_date: "2025-03-01"
+    fecha_publicacion_ppto: ""
+    costo_provisionado: -1
+    reparation_cost: -1
+    comment: ""
+    customer_service_order: "18131904"
+    service_order: ""
+
+  - numero_equipo: "TK880"
+    component_name: "Blower Parrillas"
+    position_name: "DERECHO"
+    component_hours: 14426
+    prorrata_date: "2024-09-01"
+    fecha_publicacion_ppto: ""
+    costo_provisionado: -1
+    reparation_cost: -1
+    comment: ""
+    customer_service_order: "18128289"
+    service_order: ""
+
+  - numero_equipo: "TK881"
+    component_name: "Conjunto Suspensión Delantera"
+    position_name: "IZQUIERDO"
+    component_hours: 16474
+    prorrata_date: "2025-03-01"
+    fecha_publicacion_ppto: ""
+    costo_provisionado: -1
+    reparation_cost: -1
+    comment: ""
+    customer_service_order: "18131966"
+    service_order: ""
