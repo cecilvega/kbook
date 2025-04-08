@@ -37,6 +37,7 @@
    revisar reparaciones anteriores. evaluar cargas a exceso de velocidad, alzas de fierro
    independiente del limite maximo.
   customer_service_order: 18127635
+  pm_type: imprevisto
   service_order: 14146426
   dificultad: 2
 
@@ -82,7 +83,6 @@
   dificultad: 1
 
 - equipment_name: TK322
-  TODO: 1
   component_name: motor_traccion
   subcomponent:
     - name: transmission
@@ -174,7 +174,7 @@
   pieza_afectada: conmutador
   customer_service_order: 18128289
   service_order: 14147840
-  efecto_falla: flashover en el conmutador
+  efecto_falla: erosión del conmutador
   dificultad: 1
 
 - equipment_name: TK867
@@ -292,12 +292,15 @@
   fecha_publicacion_ppto: "2025-03-14"
   costo_provisionado: 130000
   reparation_cost: 158134.57
-  comment: ""
+  comment: Fatiga de material por ciclos de carga.
+    Desgaste por sobreutilización
+    Excedencia del TBO en un 36%, lo que incrementó la acumulación de esfuerzos y degradación de la materia
+    Falta de planificación de reemplazo dentro del ciclo óptimo de vida del componente
   customer_service_order: 18129747
   service_order: 14149959
-  efecto_falla: ""
-  pieza_afectada: ""
-  dificultad: -1
+  efecto_falla: Fuga de aceite por vástago de suspensión, posterior a su cumplimiento TBO.
+  pieza_afectada: carcaza
+  dificultad: 1
 
 - equipment_name: TK872
   component_name: cilindro_levante
@@ -308,40 +311,42 @@
   fecha_publicacion_ppto: "2025-02-25"
   costo_provisionado: 23000
   reparation_cost: 31740.21
-  comment: ""
+  comment: aca podemos revisar estiva de carga, en Fiori buscar si en algún momento le falto la golilla o anillo en el pasador superior del cilindro
   customer_service_order: 18129919
   service_order: 14150133
   efecto_falla: segunda etapa de cilindro de levante quebrado
-  pieza_afectada: ""
-  dificultad: -1
+  pieza_afectada: segunda etapa del cilindro
+  dificultad: 2
 
 - equipment_name: TK285
   component_name: blower_parrilla
   position_name: derecho
   component_hours: 20650
-  changeout_date: ""
-  fecha_publicacion_ppto: ""
+  pm_type: imprevisto
+  changeout_date: "2024-11-12"
+  fecha_publicacion_ppto: "2025-01-02"
   costo_provisionado: 18940.39
   reparation_cost: 18940.39
   comment: Costo provisionado equivalente al de reparación.
   customer_service_order: 18129920
   service_order: 14150136
   efecto_falla: ""
-  pieza_afectada: ""
+  pieza_afectada: rotula inferior quebrada
   dificultad: -1
 
 - equipment_name: TK849
   component_name: suspension_trasera
   position_name: derecho
   component_hours: 23560
-  changeout_date: ""
-  fecha_publicacion_ppto: ""
-  costo_provisionado: -1
-  reparation_cost: -1
-  comment: ""
+  pm_type: programado
+  changeout_date: "2024-11-22"
+  fecha_publicacion_ppto: "2025-02-07"
+  costo_provisionado: 26000
+  reparation_cost: 26838.67
+  comment: Costo provisionado equivalente al de reparación.
   customer_service_order: 18130121
-  service_order: -1
-  efecto_falla: ""
+  service_order: 14150587
+  efecto_falla: fuga de vástago
   pieza_afectada: ""
   dificultad: -1
 
@@ -350,15 +355,16 @@
   component_name: suspension_trasera
   position_name: izquierdo
   component_hours: 43800
-  changeout_date: ""
-  fecha_publicacion_ppto: ""
-  costo_provisionado: -1
-  reparation_cost: -1
-  comment: ""
+  changeout_date: "2024-11-22"
+  pm_type: programado
+  fecha_publicacion_ppto: "2025-02-25"
+  costo_provisionado: 26000
+  reparation_cost: 41853.25
+  comment: evaluar reparación anterior medida del cromado, carga en exceso de velocidad, sprung
   customer_service_order: 18130433
-  service_order: -1
-  efecto_falla: ""
-  pieza_afectada: ""
+  service_order: 14151794
+  efecto_falla: rótula quebrada
+  pieza_afectada: rótula
   dificultad: -1
 
 - equipment_name: TK398
@@ -367,8 +373,8 @@
   component_hours: 22838
   changeout_date: "2024-12-15"
   fecha_publicacion_ppto: "2025-02-25"
-  costo_provisionado: -1
-  reparation_cost: 170060.36
+  costo_provisionado: 271560
+  reparation_cost: 358288.4
   efecto_falla: falla de propulsión intermitente
   comment: Buscar en fiori porque se retira este MT. Segun informe inicial hubo desgaste
     en los rodamientos de alta y baja, efecto de falla mas rodamientos podria ser que se 
@@ -376,50 +382,80 @@
     indice PQ, velocidades maxima con y sin carga
   customer_service_order: 18130429
   service_order: 14151172
-  pieza_afectada: ""
-  dificultad: -1
+  pieza_afectada: rodamientos de alta y baja
+  dificultad: 2
 
 - equipment_name: TK862
   component_name: suspension_trasera
   position_name: derecho
   component_hours: 21694
-  changeout_date: ""
-  fecha_publicacion_ppto: ""
-  costo_provisionado: -1
-  reparation_cost: -1
-  comment: ""
+  changeout_date: "2024-12-21"
+  pm_type: programado
+  fecha_publicacion_ppto: "2025-02-28"
+  costo_provisionado: 26000
+  reparation_cost: 74494.93
+  comment:  cual es rango de medida de la carcasa, no hay fotografías del desgaste en material base del vástago. 
+    en presupuesto esta este item DESCROME VASTAGO 1 C/U 777,44 ¿si van a cambiar el vástago porque lo descroman? 
+    también hay FLETE AEREO 3.239,20 USD. Falta evidencia
   customer_service_order: 18130691
-  service_order: -1
-  efecto_falla: ""
-  pieza_afectada: ""
-  dificultad: -1
+  service_order: 14151448
+  efecto_falla: fuga vástago
+  pieza_afectada: carcasa
+  dificultad: 3
 
 - equipment_name: TK858
   component_name: blower_parrilla
   position_name: izquierdo
-  component_hours: 17965
-  changeout_date: ""
-  fecha_publicacion_ppto: ""
-  costo_provisionado: -1
-  reparation_cost: -1
-  comment: ""
+  component_hours: 19147
+  pm_type: programado
+  changeout_date: "2024-12-21"
+  fecha_publicacion_ppto: "2025-03-21"
+  costo_provisionado: 52000
+  reparation_cost: 22717
+  comment: Costo provisionado por debajo del de reparación.
   customer_service_order: 18131331
-  service_order: -1
+  service_order: 14152791
   efecto_falla: ""
   pieza_afectada: ""
   dificultad: -1
 
 - equipment_name: TK858
   component_name: motor_traccion
+  subcomponent:
+    - name: transmission
+      customer_service_order: 18130740
+      service_order: 14151658
+      costo_provisionado: 176042.79
+      fecha_publicacion_ppto: "2024-06-08"
+      reparation_cost:  176042.79
+    - name: motor_electrico
+      customer_service_order: 18130811
+      service_order: 14151659
+      costo_provisionado:  30000
+      fecha_publicacion_ppto: "2025-02-17"
+      reparation_cost: 41401.56
+    - name: freno_servicio_trasero
+      customer_service_order: 18130812
+      service_order: 14151680
+      costo_provisionado: 55000
+      fecha_publicacion_ppto: "2024-09-27"
+      reparation_cost: 46089.27
+    - name: freno_estacionamiento
+      customer_service_order: 18130813
+      service_order: 14151681
+      costo_provisionado: 11500
+      fecha_publicacion_ppto: "2025-02-13"
+      reparation_cost: 14786.63
   position_name: derecho
   component_hours: 16928
-  changeout_date: ""
-  fecha_publicacion_ppto: ""
-  costo_provisionado: -1
-  reparation_cost: -1
-  comment: ""
+  pm_type: programado
+  changeout_date: "2024-12-23"
+  fecha_publicacion_ppto: "2025-02-17"
+  costo_provisionado: 272543
+  reparation_cost: 278320.25
+  comment: "Costo provisionado casi equivalente al costo de reparación"
   customer_service_order: 18130740
-  service_order: -1
+  service_order: 14151658
   efecto_falla: ""
   pieza_afectada: ""
   dificultad: -1
@@ -428,7 +464,8 @@
   component_name: cilindro_levante
   position_name: derecho
   component_hours: 25370
-  changeout_date: ""
+  changeout_date: "2024-12-24"
+  pm_type: programado
   fecha_publicacion_ppto: "2025-03-12"
   costo_provisionado: 26000
   reparation_cost: 16924.17
@@ -443,17 +480,19 @@
   component_name: blower_parrilla
   position_name: derecho
   component_hours: 25510
-  changeout_date: ""
+  changeout_date: "2024-12-27"
+  pm_type: programado
   fecha_publicacion_ppto: "2025-02-17"
-  costo_provisionado: -1
+  costo_provisionado: 25840
   reparation_cost: 23636.95
   efecto_falla: no hay efecto de falla
-  comment: "Para asegurar que el cambio fue solo por tbo buscar en fiori el motivo del
-  cambio, pruebas electricas buenas y fotografias se visualiza un blower sano"
+  comment: Costo provisionado menor al costo de reparación. 
+    Para asegurar que el cambio fue solo por tbo buscar en fiori el motivo del
+    cambio, pruebas electricas buenas y fotografias se visualiza un blower sano
   customer_service_order: 18130771
   service_order: 14151789
-  pieza_afectada: ""
-  dificultad: -1
+  pieza_afectada: "No hay pieza afectada."
+  dificultad: 1
 
 - equipment_name: TK867
   component_name: motor_traccion
@@ -491,28 +530,54 @@ espesor de cromo (Se supone que gasta y no aumenta)."
   component_name: blower_parrilla
   position_name: derecho
   component_hours: 13207
-  changeout_date: ""
-  fecha_publicacion_ppto: ""
-  costo_provisionado: -1
-  reparation_cost: -1
-  comment: ""
+  changeout_date: "2025-01-05"
+  fecha_publicacion_ppto: "2025-03-05"
+  costo_provisionado: 24205.95
+  reparation_cost: 24205.95
+  comment: Costo provisionado igual al de reparación.
   customer_service_order: 18131182
-  service_order: -1
-  efecto_falla: ""
-  pieza_afectada: ""
+  service_order: 14152210
+  efecto_falla: "Flashover"
+  pieza_afectada: "Conmutador"
   dificultad: -1
 
 - equipment_name: TK875
   component_name: Motor de tracción
   position_name: derecho
-  component_hours: 13000
-  changeout_date: ""
-  fecha_publicacion_ppto: ""
-  costo_provisionado: -1
-  reparation_cost: -1
-  comment: ""
+  component_hours: 13879
+  changeout_date: "2025-03-25"
+  subcomponent:
+    - name: transmission
+      customer_service_order: 18131183
+      service_order: 14152205
+      costo_provisionado: 130000
+      fecha_publicacion_ppto: "2024-06-08"
+      reparation_cost: 151896.79
+    - name: motor_electrico
+      customer_service_order: 18131184
+      service_order: 14152206
+      costo_provisionado: 30000
+      fecha_publicacion_ppto: "2025-02-17"
+      reparation_cost: -1
+    - name: freno_servicio_trasero
+      customer_service_order: 18131185
+      service_order: 14152207
+      costo_provisionado: 55000
+      fecha_publicacion_ppto: "2024-09-27"
+      reparation_cost: 46089.27
+    - name: freno_estacionamiento
+      customer_service_order: 18131186
+      service_order: 14152208
+      costo_provisionado: 11500
+      fecha_publicacion_ppto: "2025-02-13"
+      reparation_cost: 11027
+  pm_type: programado
+  fecha_publicacion_ppto: "2025-02-23"
+  costo_provisionado: 226500
+  reparation_cost: 209013.06
+  comment: "Falta agregarle motor eléctrico"
   customer_service_order: 18131183
-  service_order: -1
+  service_order: 14152205
   efecto_falla: ""
   pieza_afectada: ""
   dificultad: -1
@@ -520,119 +585,40 @@ espesor de cromo (Se supone que gasta y no aumenta)."
 - equipment_name: TK873
   component_name: Motor de tracción
   position_name: derecho
+  subcomponent:
+    - name: transmission
+      customer_service_order: 18131326
+      service_order: 14152832
+      costo_provisionado: 174000
+      fecha_publicacion_ppto: "2025-03-21"
+      reparation_cost: 139200
+    - name: motor_electrico
+      customer_service_order: 18131327
+      service_order: 14152833
+      costo_provisionado: 60000
+      fecha_publicacion_ppto: "2025-03-31"
+      reparation_cost: 26050
+    - name: freno_servicio_trasero
+      customer_service_order: 18131328
+      service_order: 14152834
+      costo_provisionado: 110000
+      fecha_publicacion_ppto: "2025-03-26"
+      reparation_cost:  48037
+    - name: freno_estacionamiento
+      customer_service_order: 18131329
+      service_order: 14152835
+      costo_provisionado: 23000
+      fecha_publicacion_ppto: "2025-03-11"
+      reparation_cost: 11027
   component_hours: 9461
-  changeout_date: ""
-  fecha_publicacion_ppto: ""
-  costo_provisionado: -1
-  reparation_cost: -1
+  pm_type: programado
+  changeout_date: "2025-02-04"
+  fecha_publicacion_ppto: "2025-03-21"
+  costo_provisionado: 367000
+  reparation_cost: 224314
   comment: ""
   customer_service_order: 18131326
-  service_order: -1
-  efecto_falla: ""
-  pieza_afectada: ""
-  dificultad: -1
-
-- equipment_name: "TK398"
-  component_name: "Conjunto Suspensión Delantera"
-  position_name: "derecho"
-  component_hours: 27053
-  changeout_date: ""
-  fecha_publicacion_ppto: ""
-  costo_provisionado: -1
-  reparation_cost: -1
-  comment: ""
-  customer_service_order: 18131608
-  service_order: -1
-  efecto_falla: ""
-  pieza_afectada: ""
-  dificultad: -1
-
-- equipment_name: TK850
-  component_name: Suspensión Trasera
-  position_name: derecho
-  component_hours: 33381
-  changeout_date: ""
-  fecha_publicacion_ppto: ""
-  costo_provisionado: -1
-  reparation_cost: -1
-  comment: ""
-  customer_service_order: 18131611
-  service_order: -1
-  efecto_falla: ""
-  pieza_afectada: ""
-  dificultad: -1
-
-- equipment_name: TK851
-  component_name: Suspensión Trasera
-  position_name: derecho
-  component_hours: 15571
-  changeout_date: ""
-  fecha_publicacion_ppto: ""
-  costo_provisionado: -1
-  reparation_cost: -1
-  comment: ""
-  customer_service_order: 18131626
-  service_order: -1
-  efecto_falla: ""
-  pieza_afectada: ""
-  dificultad: -1
-
-- equipment_name: TK867
-  component_name: Conjunto Suspensión Delantera
-  position_name: izquierdo
-  component_hours: 9277
-  changeout_date: ""
-  fecha_publicacion_ppto: ""
-  costo_provisionado: -1
-  reparation_cost: -1
-  comment: ""
-  customer_service_order: 18131818
-  service_order: -1
-  efecto_falla: ""
-  pieza_afectada: ""
-  dificultad: -1
-
-- equipment_name: TK876
-  component_name: cilindro_levante
-  position_name: izquierdo
-  component_hours: 57253
-  changeout_date: ""
-  fecha_publicacion_ppto: ""
-  costo_provisionado: -1
-  reparation_cost: -1
-  comment: ""
-  customer_service_order: 18131904
-  service_order: -1
-  efecto_falla: ""
-  pieza_afectada: ""
-  dificultad: -1
-
-- equipment_name: TK881
-  component_name: Conjunto Suspensión Delantera
-  position_name: izquierdo
-  component_hours: 16474
-  changeout_date: ""
-  fecha_publicacion_ppto: ""
-  costo_provisionado: -1
-  reparation_cost: -1
-  comment: ""
-  customer_service_order: 18131966
-  service_order: -1
-  efecto_falla: ""
-  pieza_afectada: ""
-  dificultad: -1
-
-- equipment_name: TK322
-  component_name: blower_parrilla
-  position_name: derecho
-  component_hours: 23123
-  changeout_date: ""
-  fecha_publicacion_ppto: ""
-  costo_provisionado: -1
-  reparation_cost: -1
-  comment: ""
-  customer_service_order: 18132079
-  service_order: -1
+  service_order: 14152832
   efecto_falla: ""
   pieza_afectada: ""
   dificultad: -1
