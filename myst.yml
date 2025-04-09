@@ -8,31 +8,43 @@ project:
     - jupyter-book
     - reliability
   authors:
-    - name: Departamento Confiabikidad
+    - name: Departamento confiabilidad
   github: https://github.com/cecilvega/kbook
   toc:
     - file: home.md
-    - title: Mantenimiento
+    - title: Data mantenimiento
       children:
         - file: maintenance/completeness.ipynb
         - file: maintenance/oil_analysis.ipynb
         - file: maintenance/fiori.ipynb
-    - title: Operaciones
+    - title: Data operaciones
       children:
         - file: operation/completeness.ipynb
         - file: operation/plm.ipynb
         - file: operation/ge.ipynb
-    - title: Reparación
+    - title: Data reparación
       children:
         - file: reparation/component_status.ipynb
-    - title: Confiabilidad
+    - title: Servicio al cliente
       children:
-        - file: reliability/icc.ipynb
-    - title: Ejemplos
+        - file: reliability/customer_service/components.md
+    - title: Informes Confiabilidad
       children:
-        - file: examples/01-paper.md
-        - file: examples/02-notebook.ipynb
-        - file: examples/intro.md
+          - file: reliability/icc/icc.ipynb      # Este archivo es un child de "ICC"
+          - file: reliability/icc/icc_templates.md # Este también es un child de "ICC"
+    - title: Proyectos
+      children:
+        - file: reliability/icc/icc.ipynb      # Este archivo es un child de "ICC"
+        - file: reliability/icc/icc_templates.md # Este también es un child de "ICC"
+    - title: Garantías
+      children:
+        - file: customer_service/customer_service.md
+    - title: Estados de Pago
+      children:
+        - file: customer_service/customer_service.md
+    - title: Personas
+      children:
+        - file: customer_service/customer_service.md
   exports:
     - format: pdf
       template: lapreprint-typst
